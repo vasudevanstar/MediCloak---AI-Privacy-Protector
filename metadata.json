@@ -1,0 +1,5 @@
+{
+  "name": "MediCloak - AI Privacy Protector",
+  "description": "An AI-powered web application to automatically detect and redact sensitive personal information from medical records, ensuring patient privacy.",
+  "requestFramePermissions": []
+}
